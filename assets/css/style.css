@@ -50,7 +50,7 @@ h1 {
     list-style-type: none;
 }
 
-#menu>li {
+#menu > li {
     margin-bottom: 1em;
 }
 
@@ -70,7 +70,6 @@ nav {
     top: 100%;
 }
 
-
 /* Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
@@ -86,7 +85,7 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightgray;
+    background-color: lightblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
@@ -113,7 +112,7 @@ footer {
         display: flex;
     }
 
-    #menu>li {
+    #menu > li {
         padding-left: 1rem;
     }
 
@@ -136,7 +135,7 @@ footer {
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-    #menu a:hover {
+    #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
 }
