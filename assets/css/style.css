@@ -18,6 +18,13 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: 'Allerta Stencil', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #f08;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -34,13 +41,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-}
-
-h1 {
-    font-family: 'Allerta Stencil', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #f08;
 }
 
 #menu {
