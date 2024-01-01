@@ -129,8 +129,8 @@ main {
     font-size: 280%;
 }
 
-#benefits-physical>div,
-#benefits-mental>div {
+#benefits-skills>div,
+#benefits-career>div {
     line-height: 20px;
     margin-bottom: 20px;
 }
@@ -217,6 +217,25 @@ main {
         width: 300px;
         right: 50px;
     }
+
+    /* Reasons section */
+    #benefits-skills,
+    #benefits-career {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #benefits-skills>div,
+    #benefits-career>div {
+        width: 75%;
+    }
+
+    #benefits-career>div {
+        text-align: end;
+        align-self: flex-end;
+    }
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
