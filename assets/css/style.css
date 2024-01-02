@@ -161,6 +161,32 @@ main {
     justify-content: center;
 }
 
+/* Upcoming Workshops Section */
+#dates {
+    background: url('../images/office-city.webp') no-repeat center/cover;
+    /* Handles responsivity without the need for a media query */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#dates div {
+    color: #f08;
+    background-color: rgba(0, 0, 0, .6);
+    padding: 15px;
+    text-align: center;
+    /* This will not wrap on screens of less than 400px wide.
+    Each div will expand to fill the available space on its row */
+    flex-basis: 200px;
+    flex-grow: 1;
+    /* Creates a grid of meetup time divs over the background image */
+    border: 2px solid #f08;
+}
+
+#dates h3 {
+    /* Override the heading colour set in general styles */
+    color: #fafafa;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
