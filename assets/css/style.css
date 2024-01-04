@@ -36,6 +36,11 @@ h3 {
     color: #353535;
 }
 
+p,
+blockquote {
+    font-size: 1.1rem;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -188,6 +193,19 @@ main {
 #dates h3 {
     /* Override the heading colour set in general styles */
     color: #fafafa;
+}
+
+/* About Worksharp Workshops Sections */
+
+#paragraph-box {
+    padding: 8px;
+    margin: 25px;
+
+    /* other styling */
+    background-color: #F08;
+    border-radius: 10px;
+    color: #252525;
+    font-family: inherited;
 }
 
 /* Form */
