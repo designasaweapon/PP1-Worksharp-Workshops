@@ -13,6 +13,7 @@
 
 /* General styles */
 body {
+    margin: 0;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -197,15 +198,50 @@ main {
 
 /* About Worksharp Workshops Sections */
 
-#paragraph-box {
-    padding: 8px;
-    margin: 25px;
+.container1 {
+    display: flex;
+    justify-content: flex-end;
+}
 
-    /* other styling */
-    background-color: #F08;
-    border-radius: 10px;
-    color: #252525;
-    font-family: inherited;
+.nav p {
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.about {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+}
+
+.container2 {
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container2 img {
+    width: 300px;
+    height: 200px;
+}
+
+.container3 {
+    margin: 30px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container3 img {
+    width: 500px;
+    height: 200px;
+}
+
+.container3 p {
+    width: 600px;
+    font-size: 15px;
+    text-align: justify;
 }
 
 /* Form */
