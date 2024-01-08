@@ -99,7 +99,14 @@ nav {
     font-size: 2rem;
 }
 
-/* Upcoming Workshop Scroller */
+/* Main content */
+main {
+    /* Make main element take up any surplus space to push footer down */
+    flex: 1 0 auto;
+    margin-top: 50px;
+}
+
+/* Upcoming Workshop Scroller Section*/
 
 .upcoming-workshops-section {
     padding: 0 30px 0 60px;
@@ -110,35 +117,29 @@ nav {
     width: 200px;
     font-size: 16px;
     text-transform: uppercase;
-    color: #e08b6c;
-    font-weight: 600;
+    color: #f08;
+    font-weight: 500;
     margin: auto 0;
 }
 
 .upcoming-workshops {
     padding: 30px;
-    color: #fff;
-    text-decoration: none;
+    color: #f08;
+    text-decoration: noneline
+    ;
     font-weight: 800;
 }
 
 .upcoming-workshops:hover {
-    color: #e08b6c;
+    color: #353535;
     cursor: pointer;
 }
 
 .uwtime {
     display: inline-block;
-    color: rgba(255, 255, 255, 0.5);
+    color: #ff008850;
     padding: 0 10px;
     font-size: 12px;
-}
-
-/* Main content */
-main {
-    /* Make main element take up any surplus space to push footer down */
-    flex: 1 0 auto;
-    margin-top: 47px;
 }
 
 /* Hero section */
