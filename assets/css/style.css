@@ -355,14 +355,6 @@ main {
 
 /*---- Media Query Section ----*/
 
-/* Media query: Mobile (600px Max) */
-@media only screen and (max-width: 600px) {
-    .breaking-news-section {
-        padding: 10px;
-        flex-wrap: wrap;
-    }
-}
-
     /* Media query: tablets and larger (768px and up) */
     @media screen and (min-width: 768px) {
 
