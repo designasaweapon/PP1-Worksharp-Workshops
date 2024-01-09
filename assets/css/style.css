@@ -261,7 +261,7 @@ main {
 }
 
 .container2 img {
-    width: 300px;
+    width: 400px;
     height: 200px;
 }
 
@@ -273,14 +273,16 @@ main {
 }
 
 .container3 img {
-    width: 450px;
     height: 300px;
+    width: 100%;
+    background: url("../images/hero-image.webp") no-repeat center center/cover;
+    position: relative;
+    
 }
 
 .container3 p {
     width: 600px;
     font-size: inherit;
-    text-align: start;
     text-emphasis: inherit;
 }
 
