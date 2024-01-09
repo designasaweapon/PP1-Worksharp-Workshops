@@ -207,6 +207,7 @@ main {
 }
 
 /* Upcoming Workshops Section */
+
 #dates {
     background: url('../images/office-city.webp') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
@@ -232,9 +233,11 @@ main {
     color: #fafafa;
 }
 
+/* About Section */
+
 .container1 {
     display: flex;
-    justify-content: flex-end;
+    background-color: orange;
 }
 .nav p {
     margin: 10px;
@@ -265,7 +268,7 @@ main {
     justify-content: space-around;
 }
 .container3 img {
-    width: 450px;
+    width: 600px;
     height: 300px;
 }
 .container3 p {
