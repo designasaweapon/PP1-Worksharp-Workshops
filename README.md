@@ -57,13 +57,17 @@ As a user...
 
 ## Wireframes
 
-Wireframes for the Worksharp Workshops website were initially created using the Balsamiq tool. 
+Wireframes for the Worksharp Workshops website were initially created using the Balsamiq tool. [Wireframes PDF](readmedocs/wireframes.pdf) 
 
 Following our directive to prioritize a mobile-first approach, we began by crafting the wireframe for the mobile version. Consequently, there are certain deviations in the live version of the website to accommodate its content. To ensure a logical and user-friendly layout of the information, we ultimately opted for a one-page website design, enhancing the overall end-user experience.
 
 ### [Mobile and Desktop Wireframes]
 
-JB**Wireframes**
+![Mobile Wireframe](readmedocs/mobile-wireframe.png)
+
+![Tablet Wireframe](readmedocs/tablet-wireframe.png)
+
+![Desktop Wireframe](readmedocs/desktop-wireframe.png)
 
 [Back to top](#contents)
 
