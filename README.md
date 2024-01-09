@@ -8,7 +8,7 @@ Welcome to the Worksharp Workshops Website Project.
 
 Our website offers information about Worksharp Workshops and the courses that it provides for modern marketers.
 
-Worksharp Workshops gives onloine particiapnts a convenient and flexible way to learn about the latest trends, tools, and strategies in the field of digital and social media marketing.
+Worksharp Workshops gives online participants a convenient and flexible way to learn about the latest trends, tools, and strategies in the field of digital and social media marketing.
 
 Users can contact Worksharp Workshops directly via the website to join our mailing list and receive information on upcoming courses from Worksharp Workshops.
 
