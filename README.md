@@ -119,6 +119,7 @@ The content is structured to facilitate seamless navigation throughout, making i
 ### Navigation Bar
 
 
+
 [Back to top](#contents)
 
 ### Landing Page
@@ -217,8 +218,6 @@ We used the web accessibility evaluation tool [WAVE Tool](https://wave.webaim.or
 
 In addition to conducting a WAVE test, I have also assessed my webpage for color contrast accessibility using the [Color Contrast Accessibility Validator](https://color.a11y.com/ "Color Contrast Accessibility Validator"). Initially, an error was identified, but we have deeemed the contrast to be sufficient in the design and applies to only one element.
 
-![Color Contrast Accessibility Validator](readmedocs/contrast-fail-grab.png)
-
 [Back to top](#contents)
 
 ## Lighthouse Testing
@@ -251,13 +250,11 @@ Extensive functionality testing for this website was conducted using both Chrome
 ## Bugs Fixed / Ignored
 
 A substantial amount of debugging was an integral part of the website development process.
-Every code modification underwent rigorous verification using DevTools. This entire process served as a significant learning experience, evident in the Git commit history. Despite consistent efforts to perform regular code testing throughout the project's development, some bugs still surfaced during the final version's testing phase.
+Every code modification underwent rigorous verification using DevTools. This entire process served as a significant learning experience, evident in the Git commit history.
+Despite consistent efforts to perform regular code testing throughout the project's development, some bugs still surfaced during the final version's testing phase.
+The majority have been dealt with though we have decided to tolerate the contrast fail errors as we believe aesthetically that they are within our margin for this design.
 
-![WAVE Error Message](docs/wave-error.png)
-
-JB**Wave Error MEssage**
-
-![Color Contrast Accessibility Error]
+![Color Contrast Accessibility Error](readmedocs/contrast-fail-grab.png)
 
 [Back to top](#contents)
 
