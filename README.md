@@ -104,7 +104,6 @@ Furthermore, larger images sourced from online image banks have been compressed 
 The Worksharp Workshops website is designed to be responsive, adjusting its layout based on the viewport size, as specified in the CSS media queries. This ensures that visitors can access the website in the manner I originally intended, regardless of the device type or screen size they are using. The breakpoints I have implemented align with Bootstrap standards.
 
 ![Breakpoints](readmedocs/media-queries.png)
-JB**Breakpoints**
 
 [Back to top](#contents)
 
@@ -179,9 +178,11 @@ The content is structured to facilitate seamless navigation throughout, making i
 
 ## Responsiveness Tests
 
+![Responsive Design Checker](responsive-light-grab.png)
+
 We deployed the project a very early stage in order to test the responsiveness. We used mobile first approach and checked all changes on Microsoft Edge and Google Chrome browser DevTools. External website [Responsive Design Checker](https://responsivedesignchecker.com/ "Responsive Design Checker") was used to test deployed versions. Another external source used was [Am I Responsive](https://ui.dev/amiresponsive "Am I responsive") website to get a single view of various device breakpoints.
 
-![Responsive Design Checker](readmodocs/responsive-checker-grab.png)
+![Responsive Design Checker](readmedocs/responsive-checker-grab.png)
 
 I have also utilised Mobile Simulator extension on Google Chrome for extra specific device responsiveness testing. 
 
