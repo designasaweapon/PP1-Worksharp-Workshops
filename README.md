@@ -1,6 +1,6 @@
-![Logo](readmedocs/logo.png)
+![Logo](readmedocs/logo-grab.png)
 
-# Worksharp Workshops
+# Worksharp Workshops 
 
 [Link to Worksharp Workshops Website](https://designasaweapon.github.io/WorksharpWorkshops/)
 
@@ -11,6 +11,8 @@ Our website offers information about Worksharp Workshops and teh courses that it
 Worksharp Workshops gives onloine particiapnts a convenient and flexible way to learn about the latest trends, tools, and strategies in the field of digital and social media marketing.
 
 Users can contact Worksharp Workshops directly via the website to join our mailing list and receive information on upcoming courses from Worksharp Workshops.
+
+![Screens](readmedocs/responsive-dark-grab.png)
 
 # Contents
 
