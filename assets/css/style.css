@@ -228,61 +228,50 @@ main {
 }
 
 #dates h3 {
-    /* Override the heading colour set in general styles */
+/* Override the heading colour set in general styles */
     color: #fafafa;
 }
-
-/* About Worksharp Workshops Sections */
 
 .container1 {
     display: flex;
     justify-content: flex-end;
 }
-
 .nav p {
     margin: 10px;
     padding: 10px;
     font-size: 20px;
     font-weight: bold;
 }
-
 .about {
     background-color: #353535;
     color: white;
     padding: 20px;
     justify-content: space-around;
 }
-
 .container2 {
     margin: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
-
 .container2 img {
-    width: 400px;
+    width: 300px;
     height: 200px;
 }
-
 .container3 {
     margin: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
-
 .container3 img {
-    height: 400px;
-    width: 100%;
-    background-color: rgba(60, 60, 60, 0.6);
-    position: relative;
-    
+    width: 450px;
+    height: 300px;
 }
-
 .container3 p {
     width: 600px;
     font-size: inherit;
+    text-align: start;
     text-emphasis: inherit;
 }
 
