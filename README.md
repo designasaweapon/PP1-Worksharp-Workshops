@@ -230,7 +230,7 @@ Worksharp Workshops has been tested in the [Chrome Dev Tools](https://developer.
 - Best Practices - checks whether the page is built on the modern standards of web development.
 - SEO - checks if the website is optimised for search engine result rankings.
 
-![Lighthouse Tests](
+![Lighthouse Tests](readmedocs/lighthouse-grab.png)
 
 [Back to top](#contents)
 
