@@ -125,7 +125,7 @@ main {
 .upcoming-workshops {
     padding: 30px;
     color: #f08;
-    text-decoration: noneline;
+    text-decoration-line: none;
     font-weight: 800;
 }
 
@@ -280,7 +280,7 @@ main {
     width: 600px;
     font-size: inherit;
     text-align: start;
-    text-emphasis: bold;
+    text-emphasis: inherit;
 }
 
 /* Form */
