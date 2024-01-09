@@ -6,7 +6,7 @@
 
 Welcome to the Worksharp Workshops Website Project.
 
-Our website offers information about Worksharp Workshops and teh courses that it provides for modern marketers.
+Our website offers information about Worksharp Workshops and the courses that it provides for modern marketers.
 
 Worksharp Workshops gives onloine particiapnts a convenient and flexible way to learn about the latest trends, tools, and strategies in the field of digital and social media marketing.
 
@@ -20,27 +20,29 @@ Insert Final Menu Here
 
 # Brief
 
-## User Goals
+## User Requirements
 
-- Relevant and targeted content.
-- Accessible and intuitive layout. 
-- Appealing GUI / GUX.
-- Appropriate imagery.
-- Introduction to Worksharp company.
-- List of upcoming workshops.
-- Contact form for further information.
+The goals of the Worksharp Workshops site is to provide:
+- Relevant and targeted content
+- Accessible and intuitive layout
+- Appealing GUI / GUX
+- Appropriate imagery
+- Introduction to Worksharp company
+- List of upcoming workshops
+- Contact form for further information
 
-## User Stories
+## User Brief
 
-- As a user...
-- I want the site to be the answer to my questions
-- I want information I seek to be presented in as simple a way as possible.
-- I want to use the website across a variety of devices.
-- I want the information on the website to be both accurate and purposeful.
-- I want the website as a resource for gathering ideas related to training and self improvement.
-- I want the images to align with the website's content and with me.
+As a user...
+- I want the site to be the answer to my questions about Worksharp Workshops
+- I want the site to be the answer to my questions about Digital Marketing Online Training
+- I want information I seek to be presented in as simple a way as possible
+- I want to use the website across a variety of devices including mobile
+- I want the information on the website to be both accurate and purposeful
+- I want the website as a resource for gathering ideas related to training and self improvement
+- I want the images to align with the website's content and with me
 - I want to see what courses are available and when
-- I want to have the option to connect on social media.
+- I want to have the option to connect on social media
 
 ## Website Goals and Objectives
 
@@ -72,19 +74,23 @@ JB**Wireframes**
 The font family chosen for Worksharp Workshops was Allerta Stencil - Logo | Allerta - Headings \ Lato - Body Copy.
 These san-serif fonts offer excellent readability and contribute to a clean and easily understandable design.
 
+![FontAllerta](readmedocs/font-grab-1.png)
+
+![FontLato](readmedocs/font-grab-2.png)
+
 ### Colour Scheme
 
-The colour scheme is based on the corporate colours of our parent company, the [BLCK BRND}(https://blckbrnd.net/ "BLCK BRND") agency. 
+The colour scheme is based on the corporate colours of our parent company, the [BLCK BRND](https://blckbrnd.net/ "BLCK BRND") agency.
 
-JB**Colour Schemes**
+![Colour Scheme](readmedocs/palette-grab.png)
 
-I have also used [Contrast Grid](https://contrast-grid.eightshapes.com/ "Contrast Grid") to get inspiration for possible colour combination to make the website visually attractive.
+We also used [Contrast Grid](https://contrast-grid.eightshapes.com/ "Contrast Grid") to get inspiration for colour combinations to make the website visually attractive and accessible.
 
-JB**Contrast Grid**
+![Contrast Grid](readmedocs/contrast-test-grab.png)
 
 ### Logo and Images
 
-Website logotype is in vivid magenta and is complimented by a favicon utilising the stencil W taken from it.
+The website logotype is in vivid magenta and is complimented by a favicon utilising the stencil "W"taken from it.
 Additional images sourced from the internet were integrated to enhance the content of the website. 
 Each of these images has been equipped with alt tags to ensure compliance with accessibility guidelines. 
 Furthermore, larger images sourced from online image banks have been compressed / optimized / converted to the preferred format the overall performance of the website. This was done using my own licenses for Adobe Photoshop 2024 and combines with various visual elements to contribute significantly to an engaging UX across the entire website.
@@ -169,7 +175,9 @@ The content is structured to facilitate seamless navigation throughout, making i
 
 ## Responsiveness Tests
 
-I have deployed the project a very early stage in order to test the responsiveness. I have used mobile first approach and checked all my changes on Microsoft Edge and Google Chrome browser DevTools. External website [Responsive Design Checker](https://responsivedesignchecker.com/ "Responsive Design Checker") was used to test deployed versions. Another external source used was [Am I Responsive](https://ui.dev/amiresponsive "Am I responsive") website to get a single view of various device breakpoints.
+We deployed the project a very early stage in order to test the responsiveness. We used mobile first approach and checked all changes on Microsoft Edge and Google Chrome browser DevTools. External website [Responsive Design Checker](https://responsivedesignchecker.com/ "Responsive Design Checker") was used to test deployed versions. Another external source used was [Am I Responsive](https://ui.dev/amiresponsive "Am I responsive") website to get a single view of various device breakpoints.
+
+![Responsive Design Checker](readmodocs/responsive-checker-grab.png)
 
 I have also utilised Mobile Simulator extension on Google Chrome for extra specific device responsiveness testing. 
 
@@ -179,32 +187,32 @@ I have also utilised Mobile Simulator extension on Google Chrome for extra speci
 
 Worksharp Workshops has been validated via W3C HTML Validator and the W3C CSS Validation.
 
-### HTML
+### HTML Validation
 
 I have used [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML"). I have tested 3 html files. They all came back without errors.
 
-JB**HTML Results
+![HTML Validator](readmedocs/html-validator-grab.png)
 
 [Back to top](#contents)
 
-### CSS
+### CSS Validation
 
-CSS code for the webpage was validated on [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "W3C CSS Validator"). It has returned no errors.
+The CSS code for the webpage was validated on [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ "W3C CSS Validator").
+It has now returned no errors after some considerble work.
 
-JB**CSS Results
+![CSS Validator](readmedocs/css-validator-grab.png)
 
 [Back to top](#contents)
-
 
 ## Accessibility Testing
 
-I have used web accessibility evaluation tool [WAVE Tool](https://wave.webaim.org/) which helps to determine if web content is accessible to individuals with disabilities. It highlighted the issue in the code with label id which I rectified and passed the test.
+We used the web accessibility evaluation tool [WAVE Tool](https://wave.webaim.org/) which helps to determine if web content is accessible to individuals with disabilities. 
 
-![WAVE](docs/wave-report.png "WAVE Result")
+![WAVE](readmedocs/waves-grab.png)
 
-In addition to WAVE testing, I have tested my webpage for color contrast accessibility on [Color Contrast Accessibility Validator](https://color.a11y.com/). One error returned which I immediately fixed and then received a pass.
+In addition to conducting a WAVE test, I have also assessed my webpage for color contrast accessibility using the [Color Contrast Accessibility Validator](https://color.a11y.com/ "Color Contrast Accessibility Validator"). Initially, an error was identified, but we have deeemed the contrast to be sufficient in the design and applies to only one element.
 
-![Color Contrast Accessibility Validator](docs/a11y-result.png "Color Contrast Accessibility Validator Result")
+![Color Contrast Accessibility Validator](readmedocs/contrast-fail-grab.png)
 
 [Back to top](#contents)
 
@@ -213,19 +221,18 @@ In addition to WAVE testing, I have tested my webpage for color contrast accessi
 Worksharp Workshops has been tested in the [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) and [Microsoft Edge Dev Tools](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/open/?tabs=cmd-Windows) using Lighthouse Testing tool which inspects and scores the website for the following criteria:
 
 - Performance - how quickly a website loads and how quickly users can access it.
+- Accessibility - test analyses how well people who use assistive technologies can use your website.
+- Best Practices - checks whether the page is built on the modern standards of web development.
+- SEO - checks if the website is optimised for search engine result rankings.
 
-* Accessibility - test analyses how well people who use assistive technologies can use your website.
-* Best Practices - checks whether the page is built on the modern standards of web development.
-* SEO - checks if the website is optimised for search engine result rankings.
-
-**JB Lighthouse
+![Lighthouse Tests](
 
 [Back to top](#contents)
 
 ## Browser Testing
 
 Worksharp Workshops underwent comprehensive testing across a variety of browsers to identify and address any potential issues or errors. 
-Specifically, Microsoft Edge, Google Chrome, Firefox, Safari, and Opera were selected for meticulous testing. 
+Specifically, Microsoft Edge, Google Chrome, Firefox, Safari, and Opera were selected for meticulous testing during the project. 
 It is worth noting that the final version of the website exhibited no significant issues on these browsers.
 
 [Back to top](#contents)
@@ -234,11 +241,9 @@ It is worth noting that the final version of the website exhibited no significan
 
 Extensive functionality testing for this website was conducted using both Chrome and Edge developer tools.
 
-**JB - [Feature Testing Results](docs/manual-testing.pdf "Feature Testing Results")
-
 [Back to top](#contents)
 
-## Bugs Fixed
+## Bugs Fixed / Ignored
 
 A substantial amount of debugging was an integral part of the website development process.
 Every code modification underwent rigorous verification using DevTools. This entire process served as a significant learning experience, evident in the Git commit history. Despite consistent efforts to perform regular code testing throughout the project's development, some bugs still surfaced during the final version's testing phase.
@@ -247,9 +252,7 @@ Every code modification underwent rigorous verification using DevTools. This ent
 
 JB**Wave Error MEssage**
 
-![Color Contrast Accessibility Error](docs/a11y-bug.png)
-
-JB**Color Contrast Tests**
+![Color Contrast Accessibility Error]
 
 [Back to top](#contents)
 
@@ -308,15 +311,18 @@ You are welcome to clone the Worksharp Workshops Website for your personal proje
 
 * Visual Content Sourcing:
 
-  - [Coolors](https://coolors.co/ "Coolors")
-  - [Contrast Grid](https://contrast-grid.eightshapes.com/ "Contrast Grid")
-
+- [Coolors](https://coolors.co/ "Coolors")
+- [Contrast Grid](https://contrast-grid.eightshapes.com/ "Contrast Grid")
+ 
 * Image Sourcing:
 
-  -
+- [Unsplash](https://unsplash.com/ "Unsplash")
+- [Pexels](https://www.pexels.com/ "Pexels")
 
 # Disclaimer
 
 _Worksharp Workshops Website Project is provided as free information only. It is not intented for monetary profit.
 Every effort has been made to properly acknowledge and reference any images and information used in this project. 
 Although the agreement for free usage allows photographs to be obtained by free search._
+
+![Logo](readmedocs/logo-grab.png)
