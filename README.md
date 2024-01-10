@@ -16,7 +16,38 @@ Users can contact Worksharp Workshops directly via the website to join our maili
 
 # Contents
 
-Insert Final Menu Here
+- [Contents](#contents)
+- [Brief](#brief)
+  * [User Requirements](#user-requirements)
+  * [User Brief](#user-brief)
+  * [Website Goals and Objectives](#website-goals-and-objectives)
+  * [Wireframes](#wireframes)
+  * [Design Choices](#design-choices)
+- [Features](#features)
+  * [Existing Features](#existing-features)
+    + [Navigation Bar (Header)](#navigation-bar-header)
+    + [Landing Page](#landing-page)
+    + [Reasons](#reasons)
+    + [Upcoming Courses](#upcoming-courses)
+    + [About Worksharp - Company](#about-worksharp---company)
+    + [About Workshops - Courses](#about-workshops---courses)
+    + [Sign Up](#sign-up)
+    + [Social Links (Footer)](#social-links-footer)
+- [Technologies Used](#technologies-used)
+  * [Languages](#languages)
+  * [Libraries & Framework](#libraries--framework)
+  * [Tools](#tools)
+- [Testing](#testing)
+  * [Responsiveness Tests](#responsiveness-tests)
+  * [Code Validation](#code-validation)
+  * [Accessibility Testing](#accessibility-testing)
+  * [Lighthouse Testing](#lighthouse-testing)
+  * [Browser Testing](#browser-testing)
+  * [Feature Testing](#feature-testing)
+  * [Bugs Fixed / Ignored](#bugs-fixed--ignored)
+- [Deployment](#deployment)
+- [Credits](#credits)
+- [Disclaimer](#disclaimer)
 
 # Brief
 
@@ -116,7 +147,7 @@ The content is structured to facilitate seamless navigation throughout, making i
 
 ## Existing Features
 
-### Navigation Bar (Header)
+### Navigation Bar Header
 
 ![Nav Bar](readmedocs/header-grab.png)
 
