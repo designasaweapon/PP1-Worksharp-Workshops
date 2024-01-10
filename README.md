@@ -191,7 +191,7 @@ The content is structured to facilitate seamless navigation throughout, making i
 
 ### Social Links (Footer)
 
-![Social Footer]
+![Social Footer](readmedocs/footer-grab.png)
 
 [Back to top](#contents)
 
