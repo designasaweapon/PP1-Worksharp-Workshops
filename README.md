@@ -128,12 +128,6 @@ The content is structured to facilitate seamless navigation throughout, making i
 
 [Back to top](#contents)
 
-### Hero Image (Tablet Grab)
-
-![Hero Image](readmedocs/hero-grab.png)
-
-[Back to top](#contents)
-
 ### Reasons
 
 ![Reasons Image](readmedocs/reasons-grab.png)
