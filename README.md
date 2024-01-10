@@ -101,7 +101,7 @@ Furthermore, larger images sourced from online image banks have been compressed 
 
 ### Structure
 
-The Worksharp Workshops website is designed to be responsive, adjusting its layout based on the viewport size, as specified in the CSS media queries. This ensures that visitors can access the website in the manner I originally intended, regardless of the device type or screen size they are using. The breakpoints I have implemented align with Bootstrap standards.
+The Worksharp Workshops website is designed to be responsive, adjusting its layout based on the viewport size, as specified in the CSS media queries. This ensures that visitors can access the website in the manner we originally intended, regardless of the device type or screen size they are using. The breakpoints we have implemented align with Bootstrap standards.
 
 ![Breakpoints](readmedocs/media-queries.png)
 
@@ -116,36 +116,57 @@ The content is structured to facilitate seamless navigation throughout, making i
 
 ## Existing Features
 
-### Navigation Bar
+### Navigation Bar (Header)
 
-
+![Nav Bar](readmedocs/header-grab.png)
 
 [Back to top](#contents)
 
 ### Landing Page
 
+![Landing Page](readmedocs/nav-hero-grab.png)
+
+[Back to top](#contents)
+
+### Hero Image (Tablet Grab)
+
+![Hero Image](readmedocs/hero-grab.png)
 
 [Back to top](#contents)
 
 ### Reasons
 
+![Reasons Image](readmedocs/reasons-grab.png)
 
 [Back to top](#contents)
 
-### About
+### Upcoming Courses
 
+![Upcoming Image](readmedocs/upcoming-workshops-grab.png)
 
 [Back to top](#contents)
 
-### Workshops
+### About Worksharp - Company
+
+![About Company](readmedocs/about-company-grab.png)
+
+[Back to top](#contents)
+
+### About Workshops - Courses
+
+![About Courses](readmedocs/about-courses-grab.png)
 
 [Back to top](#contents)
 
 ### Sign Up
 
+![Sign Up](readmedocs/sign-up-grab.png)
+
 [Back to top](#contents)
 
-### Footer
+### Social Links (Footer)
+
+![Social Footer]
 
 [Back to top](#contents)
 
@@ -185,7 +206,7 @@ We deployed the project a very early stage in order to test the responsiveness. 
 
 ![Responsive Design Checker](readmedocs/responsive-checker-grab.png)
 
-I have also utilised Mobile Simulator extension on Google Chrome for extra specific device responsiveness testing. 
+We also utilised Mobile Simulator extension on Google Chrome for extra specific device responsiveness testing. 
 
 [Back to top](#contents)
 
@@ -195,7 +216,7 @@ Worksharp Workshops has been validated via W3C HTML Validator and the W3C CSS Va
 
 ### HTML Validation
 
-I have used [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML"). I have tested 3 html files. They all came back without errors.
+We used [W3C HTML Validation Service](https://validator.w3.org/ "W3C HTML"). We tested 3 html files. They all came back without errors.
 
 ![HTML Validator](readmedocs/html-validator-grab.png)
 
@@ -216,7 +237,7 @@ We used the web accessibility evaluation tool [WAVE Tool](https://wave.webaim.or
 
 ![WAVE](readmedocs/waves-grab.png)
 
-In addition to conducting a WAVE test, I have also assessed my webpage for color contrast accessibility using the [Color Contrast Accessibility Validator](https://color.a11y.com/ "Color Contrast Accessibility Validator"). Initially, an error was identified, but we have deeemed the contrast to be sufficient in the design and applies to only one element.
+In addition to conducting a WAVE test, we also assessed my webpage for color contrast accessibility using the [Color Contrast Accessibility Validator](https://color.a11y.com/ "Color Contrast Accessibility Validator"). Initially, an error was identified, but we have deeemed the contrast to be sufficient in the design and applies to only one element.
 
 [Back to top](#contents)
 
