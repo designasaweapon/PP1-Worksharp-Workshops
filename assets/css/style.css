@@ -265,11 +265,9 @@ main {
     margin: 20px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
 }
 .container3 img {
-    width: 600px;
-    height: 300px;
+    width: 100%;
 }
 .container3 p {
     width: 600px;
